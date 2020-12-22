@@ -1,4 +1,4 @@
-﻿//Student_Bohdan_PD-22
+﻿//Bilodid_Daniel_PD-22
 using System;
 using System.Collections.Generic;
 using System.Linq;
